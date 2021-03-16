@@ -2,7 +2,7 @@
     "name": "unleashed-design-theme",
     "displayName": "Unleashed Design Theme",
     "description": "Custom Unleashed Design Color Theme for Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "0.0.1-Beta",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -15,11 +15,6 @@
                 "label": "Unleashed Design - Origin",
                 "uiTheme": "vs-dark",
                 "path": "./themes/unleashed-design-origin.json"
-            },
-            {
-                "label": "Unleashed Design - Pink",
-                "uiTheme": "vs-dark",
-                "path": "./themes/unleashed-design-pink.json"
             }
         ]
     }
