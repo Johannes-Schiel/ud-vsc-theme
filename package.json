@@ -1,14 +1,16 @@
 {
     "name": "unleashed-design-theme",
     "displayName": "Unleashed Design Theme",
-    "description": "Custom Unleashed Design Color Theme for Visual Studio Code.",
-    "version": "0.0.1-Beta",
+    "description": "Color Theme with the brand colors from Unleashed Design YouTube Channel.",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.54.0"
     },
+    "publisher": "unleasheddesign",
     "categories": [
         "Themes"
     ],
+    "repository": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme",
     "contributes": {
         "themes": [
             {
@@ -17,5 +19,8 @@
                 "path": "./themes/unleashed-design-origin.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^1.87.0"
     }
 }

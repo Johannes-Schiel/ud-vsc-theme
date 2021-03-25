@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "unleashed-design-theme" extension will be documented in this file.
+All notable changes to the "Unleashed Design Theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+<!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
-## [Unreleased]
+## [0.1.0] Beta
 
-- Initial release
+- first instance of the main color theme
+- first instance of the main code highlighter for the main languages
