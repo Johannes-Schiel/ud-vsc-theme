@@ -10,7 +10,9 @@
     "categories": [
         "Themes"
     ],
-    "repository": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme",
+    "galleryBanner": {
+        "color": "#FF6E48"
+    },
     "contributes": {
         "themes": [
             {
@@ -22,5 +24,24 @@
     },
     "devDependencies": {
         "vsce": "^1.87.0"
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "dark theme",
+        "unleashed",
+        "unleashed design",
+        "johannes schiel",
+        "theme",
+        "awesome theme",
+        "best dark theme",
+        "cool theme",
+        "theme"
+    ]
 }
