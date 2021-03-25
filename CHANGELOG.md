@@ -8,6 +8,7 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 - create github action for publishing #3
 - better icon for this projekt #1
+- add readme.md to this project with screenshots #2
 
 ## [0.1.2]
 
