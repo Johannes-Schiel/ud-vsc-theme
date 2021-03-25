@@ -2,7 +2,7 @@
     "name": "unleashed-design-theme",
     "displayName": "Unleashed Design Theme",
     "description": "Color Theme with the brand colors from Unleashed Design YouTube Channel.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.54.0"
     },
