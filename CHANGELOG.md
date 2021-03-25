@@ -4,6 +4,10 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [0.2.0]
+
+- create github action for publishing #3
+
 ## [0.1.2]
 
 - fix editor hint color bug
