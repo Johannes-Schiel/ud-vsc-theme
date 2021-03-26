@@ -166,7 +166,7 @@
         "tab.unfocusedActiveBorderTop": "#353A4A",
         "tab.lastPinnedBorder": "#161A21",
         "tab.inactiveBackground": "#161A21",
-        "tab.unfocusedInactiveBackground": "",
+        "tab.unfocusedInactiveBackground": "#161A21",
         "tab.inactiveForeground": "#A0AABE",
         "tab.unfocusedActiveForeground": "#A0AABE",
         "tab.unfocusedInactiveForeground": "#A0AABE",
