@@ -4,6 +4,10 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.1.1]
+
+- Tabs have no backgroud color when inactive #8
+
 ## [1.1.0]
 
 - GitHub Action dont start on release creation #4
