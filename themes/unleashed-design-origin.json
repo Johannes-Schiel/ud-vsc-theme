@@ -19,7 +19,7 @@
         "activityBar.foreground": "#FF6E48",
         "activityBar.inactiveForeground": "#353A4A",
         "activityBarBadge.background": "#CD0F8B",
-        "activityBarBadge.foreground": "#13161B",
+        "activityBarBadge.foreground": "#ffffff",
         "foreground": "#A0AABE",
         "widget.shadow": "#13161B",
         "selection.background": "#FF6E4840",
