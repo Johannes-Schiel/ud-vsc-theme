@@ -283,7 +283,7 @@
         "editorOverviewRuler.wordHighlightForeground": "#FF6E48",
         "editorOverviewRuler.wordHighlightStrongForeground": "#FF6E48",
         "editorOverviewRuler.modifiedForeground": "#00EDFF",
-        "editorOverviewRuler.addedForeground": "",
+        "editorOverviewRuler.addedForeground": "#63F3AB",
         "editorOverviewRuler.deletedForeground": "#FF3A48",
         "editorOverviewRuler.errorForeground": "#FF3A48",
         "editorOverviewRuler.warningForeground": "#BEB12B",
