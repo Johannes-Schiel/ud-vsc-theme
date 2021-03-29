@@ -374,7 +374,7 @@
                 "keyword.control"
             ],
             "settings": {
-                "foreground": "#00EDFF"
+                "foreground": "#CD0F8B"
             }
         },
         {
@@ -466,7 +466,7 @@
                 "constant.numeric"
             ],
             "settings": {
-                "foreground": "#CD0F8B"
+                "foreground": "#00EDFF"
             }
         },
         {
