@@ -4,6 +4,15 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.2.1]
+
+- Class Name should have a different color #12
+
+## [1.2.0]
+
+- In this version there is a second color theme, explicit for the use in the tutotiral youtube videos.
+- Can't see/read black text in the terminal Bug L2 #11
+
 ## [1.1.2]
 
 - New codes in highlighted red in the scrollbar #9
