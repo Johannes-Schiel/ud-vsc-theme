@@ -356,7 +356,7 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#00EDFF"
+                "foreground": "#FF6E48"
             }
         },
         {
@@ -685,7 +685,7 @@
                 "entity.name.type.class"
             ],
             "settings": {
-                "foreground": "#00EDFF"
+                "foreground": "#CD0F8B"
             }
         },
         {
