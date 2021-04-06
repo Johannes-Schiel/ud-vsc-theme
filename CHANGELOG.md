@@ -4,6 +4,11 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.2.2]
+
+- Comment color in Flutter is bad #13
+- Class Color in Flutter is bad #14
+
 ## [1.2.1]
 
 - Class Name should have a different color #12
