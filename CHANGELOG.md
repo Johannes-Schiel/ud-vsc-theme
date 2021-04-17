@@ -4,6 +4,11 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.2.3]
+
+- Wrong background color in the action bar when debugging #15
+- Colors in Tutorial Part of the Theme are Wrong #16
+
 ## [1.2.2]
 
 - Comment color in Flutter is bad #13

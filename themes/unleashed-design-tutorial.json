@@ -356,7 +356,7 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#00EDFF"
+                "foreground": "#FF6E48"
             }
         },
         {
@@ -2267,6 +2267,30 @@
             "scope": "meta.class.php",
             "settings": {
                 "foreground": "#ABB2BF"
+            }
+        },
+        {
+            "name": "[Flutter/Dart] Class Name",
+            "language": "dart",
+            "scope": "support.class.dart",
+            "settings": {
+                "foreground": "#FF6E48"
+            }
+        },
+        {
+            "name": "[Flutter/Dart] comma",
+            "language": "dart",
+            "scope": "punctuation.comma.dart",
+            "settings": {
+                "foreground": "#00EDFF"
+            }
+        },
+        {
+            "name": "[Flutter/Dart] return",
+            "language": "dart",
+            "scope": "keyword.control.dart",
+            "settings": {
+                "foreground": "#00EDFF"
             }
         }
     ]
