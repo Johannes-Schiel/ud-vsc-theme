@@ -4,6 +4,14 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.3.0]
+
+- Add new Color to Function Types
+- Add FontStyles to Function Types
+- Add FontStyles to Function Names
+- Add FontStyles to Class Types
+- Add FontStyles to Class Names
+
 ## [1.2.3]
 
 - Wrong background color in the action bar when debugging #15
