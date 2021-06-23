@@ -2311,6 +2311,17 @@
             "settings": {
                 "foreground": "#00EDFF"
             }
+        },
+        {
+            "name": "[SASS] Import",
+            "language": "sass",
+            "scope": [
+                "constant.character.css.sass",
+                "source.sass"
+            ],
+            "settings": {
+                "foreground": "#00EDFF"
+            }
         }
     ]
 }
