@@ -2322,6 +2322,18 @@
             "settings": {
                 "foreground": "#00EDFF"
             }
+        },
+        {
+            "name": "[TypeScript] Import",
+            "language": "typescript",
+            "scope": [
+                "entity.name.type.interface.ts",
+                "meta.interface.ts",
+                "source.ts"
+            ],
+            "settings": {
+                "foreground": "#FF6E48"
+            }
         }
     ]
 }
