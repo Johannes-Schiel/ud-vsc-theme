@@ -4,6 +4,11 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.3.1]
+
+- BugFix: Wrong color in sass import #17
+- BugFix: TypeScript Interface/Model Name color is off #18
+
 ## [1.3.0]
 
 - Add new Color to Function Types
