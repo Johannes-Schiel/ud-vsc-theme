@@ -2334,6 +2334,18 @@
             "settings": {
                 "foreground": "#FF6E48"
             }
+        },
+        {
+            "name": "[TypeScript] Alias & Readwrite",
+            "language": "typescript",
+            "scope": [
+                "entity.name.type.alias.ts",
+                "meta.type.declaration.ts",
+                "source.ts"
+            ],
+            "settings": {
+                "foreground": "#FF6E48"
+            }
         }
     ]
 }
