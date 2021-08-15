@@ -4,6 +4,11 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.3.2]
+
+- BugFix: Wenn im Debug Fenster ein Fehler auftaucht wird der Screen Rot #20
+- BugFix: type MessageSchema = typeof deDE ist schwer zu lesen. #19
+
 ## [1.3.1]
 
 - BugFix: Wrong color in sass import #17
