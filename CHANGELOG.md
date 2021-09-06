@@ -4,6 +4,10 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.3.3]
+
+- BugFix: SVGs are not highlighted correctly #22
+
 ## [1.3.2]
 
 - BugFix: Wenn im Debug Fenster ein Fehler auftaucht wird der Screen Rot #20

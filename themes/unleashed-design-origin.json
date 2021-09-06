@@ -2349,6 +2349,60 @@
             "settings": {
                 "foreground": "#FF6E48"
             }
+        },
+        {
+            "name": "[SVG] color",
+            "language": "xml",
+            "scope": [
+                "punctuation.definition.tag.xml",
+                "entity.other.attribute-name.localname.xml",
+                "storage.type.ts",
+                "keyword.operator.expression.of.ts"
+            ],
+            "settings": {
+                "foreground": "#FF6E48"
+            }
+        },
+        {
+            "name": "[SVG] Tag color",
+            "language": "xml",
+            "scope": "meta.tag.xml",
+            "settings": {
+                "foreground": "#CD0F8B"
+            }
+        },
+        {
+            "name": "[ANGULAR] Services",
+            "language": "html",
+            "scope": [
+                "variable.other.object.ts",
+                "expression.ng",
+                "variable.other.readwrite.ts"
+            ],
+            "settings": {
+                "foreground": "#CD0F8B"
+            }
+        },
+        {
+            "name": "[ANGULAR] Variables",
+            "language": "html",
+            "scope": [
+                "variable.other.readwrite.ts",
+                "variable.other.property.ts"
+            ],
+            "settings": {
+                "foreground": "#00EDFF"
+            }
+        },
+        {
+            "name": "[SASS] Other",
+            "language": "sass",
+            "scope": [
+                "support.constant.property-value.css.sass"
+            ],
+            "settings": {
+                "foreground": "#00EDFF"
+            }
         }
     ]
 }
