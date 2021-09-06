@@ -7,6 +7,7 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 ## [1.3.3]
 
 - BugFix: SVGs are not highlighted correctly #22
+- BugFix: Angular .html files numbers wrong color #23
 
 ## [1.3.2]
 

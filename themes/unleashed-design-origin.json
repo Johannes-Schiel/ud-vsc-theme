@@ -2403,6 +2403,34 @@
             "settings": {
                 "foreground": "#00EDFF"
             }
+        },
+        {
+            "name": "[ANGULAR] Numbers",
+            "language": "html",
+            "scope": [
+                "expression.ng text.html.derivative",
+                "punctuation.accessor.ts",
+                "expression.ng",
+                "variable.other.object.ts",
+                "variable.other.object.property.ts"
+            ],
+            "settings": {
+                "foreground": "#00EDFF"
+            }
+        },
+        {
+            "name": "[ANGULAR] Numbers",
+            "language": "html",
+            "scope": [
+                "keyword.operator.arithmetic.ts",
+                "meta.ng-binding.template.html",
+                "keyword.operator.relational.ts",
+                "meta.tag.inline.span.start.html",
+                "variable.other.property.ts"
+            ],
+            "settings": {
+                "foreground": "#CD0F8B"
+            }
         }
     ]
 }
