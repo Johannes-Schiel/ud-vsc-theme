@@ -6,6 +6,7 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 ## [1.3.3]
 
+- BugFix: Grey file names in the sidebar are difficult to read #24
 - BugFix: SVGs are not highlighted correctly #22
 - BugFix: Angular .html files numbers wrong color #23
 
