@@ -4,6 +4,10 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.4.0]
+
+- Change: Color in Angular 
+
 ## [1.3.3]
 
 - BugFix: Grey file names in the sidebar are difficult to read #24
