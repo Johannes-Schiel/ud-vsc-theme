@@ -6,7 +6,8 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 ## [1.4.0]
 
-- Change: Color in Angular 
+- Change: Color in Angular
+- Add: Vue 3 Code Highlight Support (BigTime)
 
 ## [1.3.3]
 

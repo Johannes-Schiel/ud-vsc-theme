@@ -2217,6 +2217,30 @@
       "settings": {
         "foreground": "#ff00aa"
       }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["entity.name.tag.block.any.html"],
+      "settings": {
+        "foreground": "#7D899A"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["text.html.vue-html"],
+      "settings": {
+        "foreground": "#7D899A"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "typescript",
+      "scope": ["meta.object-literal.key.ts", "source.vue"],
+      "settings": {
+        "foreground": "#455163"
+      }
     }
   ]
 }
