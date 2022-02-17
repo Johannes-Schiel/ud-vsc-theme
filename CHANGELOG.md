@@ -4,10 +4,14 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.5.0]
+
+- Update: Vue 3 Code Highlight Support
+
 ## [1.4.0]
 
 - Change: Color in Angular
-- Add: Vue 3 Code Highlight Support (BigTime)
+- Add: Vue 3 Code Highlight Support
 
 ## [1.3.3]
 

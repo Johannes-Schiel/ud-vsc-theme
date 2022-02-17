@@ -649,14 +649,23 @@
     },
     {
       "name": "Meta Class",
+      "scope": ["entity.name.function.ts"],
+      "settings": {
+        "foreground": "#00EDFF",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "Meta Class",
       "scope": [
         "support.type.primitive.ts",
         "meta.return.type.ts",
+        "storage.type.function.ts",
         "meta.method.declaration.ts",
         "source.ts"
       ],
       "settings": {
-        "foreground": "#CD0F8B",
+        "foreground": "#4f678e",
         "fontStyle": "italic"
       }
     },
@@ -2135,7 +2144,7 @@
         "keyword.operator.expression.of.ts"
       ],
       "settings": {
-        "foreground": "#FF6E48"
+        "foreground": "#4f678e"
       }
     },
     {
@@ -2223,15 +2232,105 @@
       "language": "vue-html",
       "scope": ["entity.name.tag.block.any.html"],
       "settings": {
-        "foreground": "#7D899A"
+        "foreground": "#FF6E48"
       }
     },
     {
       "name": "[VUE] Meta Type Names",
       "language": "vue-html",
-      "scope": ["text.html.vue-html"],
+      "scope": [
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html"
+      ],
       "settings": {
-        "foreground": "#7D899A"
+        "foreground": "#becbdd"
+      }
+    },
+    {
+      "name": "[VUE] Text",
+      "language": "vue-html",
+      "scope": ["text.html.vue-html", "source.vue"],
+      "settings": {
+        "foreground": "#afbed3"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": [
+        "punctuation.definition.string.end.html",
+        "punctuation.definition.string.begin.html",
+        "string.quoted.double.html",
+        "meta.tag.block.any.html",
+        "source.vue"
+      ],
+      "settings": {
+        "foreground": "#38404c"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["string.quoted.double.html", "meta.tag.block.any.html"],
+      "settings": {
+        "foreground": "#4d5663"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["string.quoted.double.html"],
+      "settings": {
+        "foreground": "#4d5663",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": [
+        "entity.name.function.js",
+        "meta.function-call.js",
+        "expression.embedded.vue"
+      ],
+      "settings": {
+        "foreground": "#00EDFF",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": [
+        "variable.other.readwrite.js",
+        "expression.embedded.vue",
+        "expression.embedded.vue"
+      ],
+      "settings": {
+        "foreground": "#CD0F8B",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["string.quoted.double.html", "meta.tag.block.any.html"],
+      "settings": {
+        "foreground": "#05b0bc",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": [
+        "meta.brace.round.js",
+        "expression.embedded.vue",
+        "text.html.vue-html",
+        "source.vue"
+      ],
+      "settings": {
+        "foreground": "#AFBED3"
       }
     },
     {
@@ -2239,7 +2338,7 @@
       "language": "typescript",
       "scope": ["meta.object-literal.key.ts", "source.vue"],
       "settings": {
-        "foreground": "#455163"
+        "foreground": "#17eb9c"
       }
     }
   ]

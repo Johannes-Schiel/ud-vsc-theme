@@ -1,56 +1,56 @@
 {
-    "name": "unleashed-design-theme",
-    "displayName": "Unleashed Design Theme",
-    "description": "Color Theme with the brand colors from Unleashed Design YouTube Channel.",
-    "version": "1.4.1",
-    "engines": {
-        "vscode": "^1.54.0"
-    },
-    "scripts": {
-        "deploy": "vsce publish --yarn"
-    },
-    "publisher": "unleasheddesign",
-    "categories": [
-        "Themes"
-    ],
-    "galleryBanner": {
-        "color": "#0C1016",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Unleashed Design - Origin",
-                "uiTheme": "vs-dark",
-                "path": "./themes/unleashed-design-origin.json"
-            },
-            {
-                "label": "Unleashed Design - Tutorial",
-                "uiTheme": "vs-dark",
-                "path": "./themes/unleashed-design-tutorial.json"
-            }
-        ]
-    },
-    "devDependencies": {
-        "vsce": "^1.87.0"
-    },
-    "bugs": {
-        "url": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme"
-    },
-    "icon": "icon.png",
-    "keywords": [
-        "dark theme",
-        "unleashed",
-        "unleashed design",
-        "johannes schiel",
-        "theme",
-        "awesome theme",
-        "best dark theme",
-        "cool theme",
-        "theme"
+  "name": "unleashed-design-theme",
+  "displayName": "Unleashed Design Theme",
+  "description": "Color Theme with the brand colors from Unleashed Design YouTube Channel.",
+  "version": "1.5.0",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "scripts": {
+    "deploy": "vsce publish --yarn"
+  },
+  "publisher": "unleasheddesign",
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#0C1016",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unleashed Design - Origin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/unleashed-design-origin.json"
+      },
+      {
+        "label": "Unleashed Design - Tutorial",
+        "uiTheme": "vs-dark",
+        "path": "./themes/unleashed-design-tutorial.json"
+      }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^1.87.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "dark theme",
+    "unleashed",
+    "unleashed design",
+    "johannes schiel",
+    "theme",
+    "awesome theme",
+    "best dark theme",
+    "cool theme",
+    "theme"
+  ]
 }
