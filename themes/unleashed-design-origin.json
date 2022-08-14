@@ -2335,6 +2335,53 @@
     },
     {
       "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["entity.name.tag.template.html.vue", "source.vue"],
+      "settings": {
+        "foreground": "#00EDFF"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["entity.name.tag.script.html.vue", "source.vue"],
+      "settings": {
+        "foreground": "#00EDFF"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["variable.other.readwrite.alias.js", "source.vue"],
+      "settings": {
+        "foreground": "#00EDFF"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "javascript",
+      "scope": [
+        "meta.object-literal.key.js",
+        "meta.object.member.js",
+        "meta.objectliteral.js",
+        "meta.export.default.js",
+        "source.js",
+        "source.vue"
+      ],
+      "settings": {
+        "foreground": "#00EDFF"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
+      "language": "vue-html",
+      "scope": ["entity.name.tag.style.html.vue", "source.vue"],
+      "settings": {
+        "foreground": "#00EDFF"
+      }
+    },
+    {
+      "name": "[VUE] Meta Type Names",
       "language": "typescript",
       "scope": ["meta.object-literal.key.ts", "source.vue"],
       "settings": {
