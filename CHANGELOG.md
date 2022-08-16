@@ -4,7 +4,7 @@ All notable changes to the "Unleashed Design Theme" extension will be documented
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
-## [1.6.0]
+## [1.6.1]
 
 - BugFix: Vue 3 Code Highlight
 
