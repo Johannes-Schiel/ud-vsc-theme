@@ -7,7 +7,7 @@
 		"vscode": "^1.54.0"
 	},
 	"scripts": {
-		"deploy": "vsce publish --yarn"
+		"deploy": "vsce publish"
 	},
 	"publisher": "unleasheddesign",
 	"categories": [
@@ -32,7 +32,7 @@
 		]
 	},
 	"devDependencies": {
-		"vsce": "^1.87.0"
+		"@vscode/vsce": "^3.9.2"
 	},
 	"bugs": {
 		"url": "https://github.com/Johannes-Schiel/ud-visual-studio-code-theme/issues"
